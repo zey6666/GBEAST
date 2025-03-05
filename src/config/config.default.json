@@ -1,6 +1,6 @@
 {
-    "clientID":"BOTclientID",
-    "clientSecret":"BOTclientSecret",
+    "clientID":"1340000324504649728",
+    "clientSecret":"dHfTNefNpo4tnX_YbLziZuptBBodYbRX",
     "callbackURL":"http://localhost:1337/login/api",
     "Admin":["userAdminID"],
     "token":"BOTtoken",
